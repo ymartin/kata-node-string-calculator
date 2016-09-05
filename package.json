@@ -1,0 +1,10 @@
+{
+  "name": "string-calculator-kata",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "chai": "^3.5.0"
+  }
+}
