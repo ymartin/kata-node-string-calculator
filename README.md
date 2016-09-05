@@ -22,7 +22,7 @@ The following is a TDD Kata- an exercise in coding, refactoring and test-first.
 4. Support different delimiters
 	1. to change a delimiter, the beginning of the string will contain a separate line that looks like this:   “//[delimiter]\n[numbers…]” for example “//;\n1;2” should return three where the default delimiter is ‘;’ .
 	2. the first line is optional. all existing scenarios should still be supported
-5. Calling Add with a negative number will throw an exception “negatives not allowed” - and the negative that was passed.if there are multiple negatives, show all of them in the exception message
+5. Calling Add with a negative number will throw an error “negatives not allowed” - and the negative that was passed.if there are multiple negatives, show all of them in a single error message
 
 ## Advanced
 1. Numbers bigger than 1000 should be ignored, so adding 2 + 1001  = 2
