@@ -1,6 +1,11 @@
 
 Kata taken from Roy Osherove http://osherove.com/tdd-kata-1/
 
+# Setup
+1. Install node & npm
+2. Run npm install
+3. Run npm test
+
 # String Calculator
 The following is a TDD Kata- an exercise in coding, refactoring and test-first.
 
