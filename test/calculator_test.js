@@ -1,3 +1,5 @@
+"use strict";
+
 describe('Calculator', function() {
     describe('add', function() {
         describe('example functionality', function() {
